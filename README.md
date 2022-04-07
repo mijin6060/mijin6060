@@ -1,34 +1,26 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=0:4388d3,100:ff9dda&height=200&section=header&text=🤗Welcome🤗%20&fontColor=fff&fontSize=50&animation=twinkling)
 
-![React](https://img.shields.io/badge/react-61DAFB.svg?logo=react&logoColor=white&style=for-the-badge)
+#### Hi There👋
+hello! I'm a front-end developer👩‍💻
+I wants to go to the moon someday🚀
+
+#### 💪 My skill
+
+###### Programming Language
+![React](https://img.shields.io/badge/javascript-f7df1e.svg?logo=javascript&logoColor=white&style=for-the-badge) ![Html](https://img.shields.io/badge/html-e34f26.svg?logo=html5&logoColor=white&style=for-the-badge) ![css](https://img.shields.io/badge/css-1572b6.svg?logo=css3&logoColor=white&style=for-the-badge)
+###### DB & Server
+![node.js](https://img.shields.io/badge/node.js-339933.svg?logo=node.js&logoColor=white&style=for-the-badge) ![mysql](https://img.shields.io/badge/mysql-4479a1.svg?logo=mysql&logoColor=white&style=for-the-badge)
+###### Framework&Library
+![React](https://img.shields.io/badge/react-61DAFB.svg?logo=react&logoColor=white&style=for-the-badge)  ![flutter](https://img.shields.io/badge/flutter-02569b.svg?logo=flutter&logoColor=white&style=for-the-badge) ![tailwind](https://img.shields.io/badge/tailwindcss-06b6d4.svg?logo=tailwindcss&logoColor=white&style=for-the-badge)
+###### Others
+![git](https://img.shields.io/badge/git-f05032.svg?logo=git&logoColor=white&style=for-the-badge) ![insomnia](https://img.shields.io/badge/insomnia-4000bf.svg?logo=insomnia&logoColor=white&style=for-the-badge) ![sourcrtree](https://img.shields.io/badge/sourcetree-0052cc.svg?logo=insomnia&logoColor=white&style=for-the-badge) ![slack](https://img.shields.io/badge/slack-4a154b.svg?logo=slack&logoColor=white&style=for-the-badge) ![notion](https://img.shields.io/badge/notion-000000.svg?logo=notion&logoColor=white&style=for-the-badge)
 
 
+### 👉 More information
 
-### Hi there 👋
-
-<div>
+<a href="https://velog.io/@mijin60">
     <img 
-        src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlpoxDev"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-    <img 
-        src="https://img.shields.io/github/followers/AlpoxDev?label=AlpoxDev%20Followers&style=social"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</div>
-
-## AlpoxDev : Service Programmer
-
-어플리케이션부터 프론트엔드, 백엔드 모두 관심이 많으며 실 서비스를 만드는데 관심이 많은 프로그래머입니다. 
-
-## Stack
-
-- React.js
-- Node.js
-- React-Native
-- Android-Studio
-
-<a href="https://instagram.com/alpox.dev">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
+        src="http://img.shields.io/badge/-velog-black?style=flat&logo=velog&link=https://velog.io/@mijin60"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://alpox.kr">
