@@ -18,6 +18,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mijin6060&layout=compact)](https://github.com/mijin6060/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mijin6060&show_icons=true&theme=radical)
 
 ## 👉 More information
 
