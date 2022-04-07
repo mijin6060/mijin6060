@@ -19,13 +19,15 @@ I wants to go to the moon someday🚀
 
 ## 👉 More information
 
+If you're curious about my activities, check it out here!🤗
+
 <a href="https://velog.io/@mijin60">
     <img 
         src="http://img.shields.io/badge/-velog-20c997?style=flat&logo=velog&link=https://velog.io/@mijin60"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://www.notion.so/About-me-876d1186d44942b58eefc84470a5ec2e">
+<a href="https://fast-sled-7a9.notion.site/About-me-876d1186d44942b58eefc84470a5ec2e">
     <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-000000?style=flat&logo=notion&link=https://www.notion.so/About-me-876d1186d44942b58eefc84470a5ec2e"
+        src="http://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&link=https://fast-sled-7a9.notion.site/About-me-876d1186d44942b58eefc84470a5ec2e"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
