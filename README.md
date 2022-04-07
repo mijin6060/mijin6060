@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=0:4388d3,100:ff9dda&height=200&section=header&text=🤗Welcome🤗%20&fontColor=fff&fontSize=50&animation=twinkling)
 
-![React](https://img.shields.io/badge/react-#61DAFB.svg?logo=react&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/react-61DAFB.svg?logo=react&logoColor=white&style=for-the-badge)
 
 
 
