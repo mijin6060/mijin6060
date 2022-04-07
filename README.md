@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=0:4388d3,100:ff9dda&height=200&section=header&text=🤗Welcome🤗%20&fontColor=fff&fontSize=50&animation=twinkling)
 
-https://img.shields.io/github/languages/count/beygee/survive 
+![body](https://img.shields.io/github/languages/count/beygee/survive)
 
 
 ### Hi there 👋
