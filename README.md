@@ -4,7 +4,7 @@
 hello! I'm a front-end developer👩‍💻
 I wants to go to the moon someday🚀
 
-#### 💪 My skill
+### 💪 My skill
 
 ###### Programming Language
 ![React](https://img.shields.io/badge/javascript-f7df1e.svg?logo=javascript&logoColor=white&style=for-the-badge) ![Html](https://img.shields.io/badge/html-e34f26.svg?logo=html5&logoColor=white&style=for-the-badge) ![css](https://img.shields.io/badge/css-1572b6.svg?logo=css3&logoColor=white&style=for-the-badge)
@@ -16,11 +16,11 @@ I wants to go to the moon someday🚀
 ![git](https://img.shields.io/badge/git-f05032.svg?logo=git&logoColor=white&style=for-the-badge) ![insomnia](https://img.shields.io/badge/insomnia-4000bf.svg?logo=insomnia&logoColor=white&style=for-the-badge) ![sourcrtree](https://img.shields.io/badge/sourcetree-0052cc.svg?logo=insomnia&logoColor=white&style=for-the-badge) ![slack](https://img.shields.io/badge/slack-4a154b.svg?logo=slack&logoColor=white&style=for-the-badge) ![notion](https://img.shields.io/badge/notion-000000.svg?logo=notion&logoColor=white&style=for-the-badge)
 
 
-### 👉 More information
+## 👉 More information
 
 <a href="https://velog.io/@mijin60">
     <img 
-        src="http://img.shields.io/badge/-velog-black?style=flat&logo=velog&link=https://velog.io/@mijin60"
+        src="http://img.shields.io/badge/-velog-20c997?style=flat&logo=velog&link=https://velog.io/@mijin60"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://alpox.kr">
