@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=0:4388d3,100:ff9dda&height=200&section=header&text=🤗Welcome🤗%20&fontColor=fff&fontSize=50&animation=twinkling)
 
-![React](https://img.shields.io/badge/react-black.svg?logo=react&logoColor=#61DAFB&style=for-the-badge)
+![React](https://img.shields.io/badge/react-#61DAFB.svg?logo=react&logoColor=white&style=for-the-badge)
 
 
 
 ### Hi there 👋
-11
+
 <div>
     <img 
         src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlpoxDev"
