@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=0:4388d3,100:ff9dda&height=200&section=header&text=🤗Welcome🤗%20&fontColor=fff&fontSize=50&animation=twinkling)
 
-![body](https://img.shields.io/badge/github-GIVEME--STAR-red)
+![body](<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>)
 
 
 ### Hi there 👋
