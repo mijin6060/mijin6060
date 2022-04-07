@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=0:4388d3,100:ff9dda&height=200&section=header&text=🤗Welcome🤗%20&fontColor=fff&fontSize=50&animation=twinkling)
 
 #### Hi There👋
-hello! I'm a front-end developer👩‍💻
-I wants to go to the moon someday🚀
+<div>hello! I'm a front-end developer👩‍💻</div>
+<div>I wants to go to the moon someday🚀</div>
 
 ### 💪 My skill
 ---
