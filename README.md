@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=0:4388d3,100:ff9dda&height=200&section=header&text=🤗Welcome🤗%20&fontColor=fff&fontSize=50&animation=twinkling)
 
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hongssup"/></a>
+![Rust](https://img.shields.io/badge/rust-black.svg?logo=rust&logoColor=white&style=for-the-badge)
 
 
 ### Hi there 👋
