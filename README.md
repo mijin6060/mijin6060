@@ -5,6 +5,7 @@ hello! I'm a front-end developer👩‍💻
 I wants to go to the moon someday🚀
 
 ### 💪 My skill
+---
 
 ###### Programming Language
 ![React](https://img.shields.io/badge/javascript-f7df1e.svg?logo=javascript&logoColor=white&style=for-the-badge) ![Html](https://img.shields.io/badge/html-e34f26.svg?logo=html5&logoColor=white&style=for-the-badge) ![css](https://img.shields.io/badge/css-1572b6.svg?logo=css3&logoColor=white&style=for-the-badge)
