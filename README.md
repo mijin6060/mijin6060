@@ -24,8 +24,8 @@ I wants to go to the moon someday🚀
         src="http://img.shields.io/badge/-velog-20c997?style=flat&logo=velog&link=https://velog.io/@mijin60"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://alpox.kr">
+<a href="https://www.notion.so/About-me-876d1186d44942b58eefc84470a5ec2e">
     <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
+        src="http://img.shields.io/badge/-Tech%20Blog-000000?style=flat&logo=notion&link=https://www.notion.so/About-me-876d1186d44942b58eefc84470a5ec2e"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
