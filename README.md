@@ -12,7 +12,7 @@
 ###### DB & Server
 ![node.js](https://img.shields.io/badge/node.js-339933.svg?logo=node.js&logoColor=white&style=for-the-badge) ![mysql](https://img.shields.io/badge/mysql-4479a1.svg?logo=mysql&logoColor=white&style=for-the-badge)
 ###### Framework&Library
-![React](https://img.shields.io/badge/react-61DAFB.svg?logo=react&logoColor=white&style=for-the-badge)  ![flutter](https://img.shields.io/badge/flutter-02569b.svg?logo=flutter&logoColor=white&style=for-the-badge) ![tailwind](https://img.shields.io/badge/tailwindcss-06b6d4.svg?logo=tailwindcss&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/react-61DAFB.svg?logo=react&logoColor=white&style=for-the-badge) ![next.js](https://img.shields.io/badge/next.js-000000.svg?logo=next.js&logoColor=white&style=for-the-badge)  ![flutter](https://img.shields.io/badge/flutter-02569b.svg?logo=flutter&logoColor=white&style=for-the-badge) ![tailwind](https://img.shields.io/badge/tailwindcss-06b6d4.svg?logo=tailwindcss&logoColor=white&style=for-the-badge) 
 ###### Others
 ![git](https://img.shields.io/badge/git-f05032.svg?logo=git&logoColor=white&style=for-the-badge) ![insomnia](https://img.shields.io/badge/insomnia-4000bf.svg?logo=insomnia&logoColor=white&style=for-the-badge) ![sourcrtree](https://img.shields.io/badge/sourcetree-0052cc.svg?logo=insomnia&logoColor=white&style=for-the-badge) ![slack](https://img.shields.io/badge/slack-4a154b.svg?logo=slack&logoColor=white&style=for-the-badge) ![notion](https://img.shields.io/badge/notion-000000.svg?logo=notion&logoColor=white&style=for-the-badge)
 
