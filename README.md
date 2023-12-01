@@ -17,7 +17,7 @@
 ![git](https://img.shields.io/badge/git-f05032.svg?logo=git&logoColor=white&style=for-the-badge) ![insomnia](https://img.shields.io/badge/insomnia-4000bf.svg?logo=insomnia&logoColor=white&style=for-the-badge) ![sourcrtree](https://img.shields.io/badge/sourcetree-0052cc.svg?logo=insomnia&logoColor=white&style=for-the-badge) ![slack](https://img.shields.io/badge/slack-4a154b.svg?logo=slack&logoColor=white&style=for-the-badge) ![notion](https://img.shields.io/badge/notion-000000.svg?logo=notion&logoColor=white&style=for-the-badge)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mijin6060&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mijin6060&show_icons=true&theme=radical)-->
 
 ## 👉 More information
 
